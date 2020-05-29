@@ -1,0 +1,5 @@
+bump:
+  recurse: false
+  file: 'lib/solidus_auth_devise/version.rb'
+  message: Bump SolidusAuthDevise to %{version}
+  tag: true
